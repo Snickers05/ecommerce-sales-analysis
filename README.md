@@ -10,6 +10,7 @@ Power BI
 Google Sheets
 
 🔹 KeyInsights
+
 1️⃣ Revenue Growth Does Not Equal Profit Growth
 2️⃣ Regional Performance is Uneven
 3️⃣ Certain Categories Drive Sales but Reduce Profit
